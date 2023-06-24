@@ -1,1 +1,48 @@
-# Response-Modeling-and-Campaign-Strategizing-for-Supermarket-.
+# Response-Modeling-and-Campaign-Strategizing-for-Supermarket
+
+## Problem Statement:
+A supermarket chain runs marketing campaigns with multiple offers on different products and services to boost sales. We needed to build a response model by leveraging the spend behavior and past campaign responses that can be used to devise a campaign strategy for achieving the objectives.
+
+## Objectives:
+To improve responses.The supermarket is actually looking to get more responses from their marketing campaigns.
+
+To maximise the profit, maximise the return on investment made towards these marketing campaigns.
+
+## Algorithms Used :
+In this project we have used Logistic Regression, Decision Tree, Random Forest
+
+## Final Model Algorithm
+Among the models that we tried building the Decision Tree performed the best in terms of F1_Score
+
+Therefore we have kept Decision Tree as the final model algorithm
+
+##Grid Search CV parameters
+Maximum Depth of Tree - 6
+
+Minimum Sample Size for Nodes to be Split - 75 Observations
+
+## Model Performance Measures
+Accuracy from Decision Tree Model : 0.88
+
+Precision from Decision Tree Model : 0.74
+
+Recall from Decision Tree Model : 0.34
+
+f1_score from Decision Tree Model : 0.46
+
+Area under ROC Curve from Decision Tree Model : 0.66
+
+
+
+## Strategy build for creating the campaign :
+1) Audience should be the top 20% of the people as per the ranked data. This would lead to 80% reduction in Marketing cost and higher response rate.
+
+2) 1st Priority : People with Low Engagement and High Spend
+
+   2nd Priority : People with High Engagement and High Spend
+
+   3rd Priority : People with High Engagement and Low Spend
+
+   4th Proirity : People with Low Engagement and Low Spend
+
+3) The best offers should be provided on the following products: Wines/Fish/Meat/Gold
