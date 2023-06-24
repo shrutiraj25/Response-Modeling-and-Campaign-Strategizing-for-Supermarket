@@ -5,7 +5,9 @@ A supermarket chain runs marketing campaigns with multiple offers on different p
 
 ## Objectives:
 Leveraging the spend behavior and past campaign responses to build a response model that can be used to devise a campaign strategy for achieving the objectives.
+
 To improve responses.The supermarket is actually looking to get more responses from their marketing campaigns.
+
 To maximise the profit, maximise the return on investment made towards these marketing campaigns.
 
 ## Algorithms Used :
