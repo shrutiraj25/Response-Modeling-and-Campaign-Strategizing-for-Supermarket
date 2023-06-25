@@ -14,7 +14,7 @@ To maximise the profit, maximise the return on investment made towards these mar
 In this project we have used Logistic Regression, Decision Tree, Random Forest, Gradient Boosting Machine 
 
 # Final Model Algorithm
-Among the models that we tried building the radient Boosting Machine   performed the best in terms of F1_Score
+Among the models that we tried building the Gradient Boosting Machine   performed the best in terms of F1_Score
 
 Therefore we have kept Gradient Boosting Machine  as the final model algorithm
 
