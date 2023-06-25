@@ -18,7 +18,7 @@ Among the models that we tried building the Decision Tree performed the best in 
 
 Therefore we have kept Decision Tree as the final model algorithm
 
-##Grid Search CV parameters
+## Grid Search CV parameters
 Maximum Depth of Tree - 6
 
 Minimum Sample Size for Nodes to be Split - 75 Observations
