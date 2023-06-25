@@ -10,30 +10,28 @@ To improve responses.The supermarket is actually looking to get more responses f
 
 To maximise the profit, maximise the return on investment made towards these marketing campaigns.
 
-## Algorithms Used :
-In this project we have used Logistic Regression, Decision Tree, Random Forest
+# Algorithms Used :
+In this project we have used Logistic Regression, Decision Tree, Random Forest, Gradient Boosting Machine 
 
-## Final Model Algorithm
-Among the models that we tried building the Decision Tree performed the best in terms of F1_Score
+# Final Model Algorithm
+Among the models that we tried building the radient Boosting Machine   performed the best in terms of F1_Score
 
-Therefore we have kept Decision Tree as the final model algorithm
+Therefore we have kept Gradient Boosting Machine  as the final model algorithm
 
-## Grid Search CV parameters
+# Grid Search CV parameters
 Maximum Depth of Tree - 6
 
 Minimum Sample Size for Nodes to be Split - 75 Observations
 
-## Model Performance Measures
-Accuracy from Decision Tree Model : 0.88
+# Model Performance Measures
+Accuracy from GBM Model : 0.885
 
-Precision from Decision Tree Model : 0.74
+Precision from GBM Model : 0.671
 
-Recall from Decision Tree Model : 0.34
+Recall from GBM Model : 0.4343
 
-f1_score from Decision Tree Model : 0.46
-
-Area under ROC Curve from Decision Tree Model : 0.66
-
+f1_score from GBM Model : 0.527
+Area under ROC Curve from Random Forest Model : 0.698
 
 
 ## Strategy build for creating the campaign :
