@@ -1,16 +1,16 @@
 # Response-Modeling-and-Campaign-Strategizing-for-Supermarket
 
-## Problem Statement:
+# Problem Statement:
 A supermarket chain runs marketing campaigns with multiple offers on different products and services to boost sales. 
 
-## Objectives:
+# Objectives:
 Leveraging the spend behavior and past campaign responses to build a response model that can be used to devise a campaign strategy for achieving the objectives.
 
 To improve responses.The supermarket is actually looking to get more responses from their marketing campaigns.
 
 To maximise the profit, maximise the return on investment made towards these marketing campaigns.
 
-#Data Source:
+# Data Source:
 https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign?datasetId=178248&sortBy=dateRun&tab=bookmarked
 
 # Algorithms Used :
