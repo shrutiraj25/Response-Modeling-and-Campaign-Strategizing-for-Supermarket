@@ -10,6 +10,9 @@ To improve responses.The supermarket is actually looking to get more responses f
 
 To maximise the profit, maximise the return on investment made towards these marketing campaigns.
 
+#Data Source:
+https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign?datasetId=178248&sortBy=dateRun&tab=bookmarked
+
 # Algorithms Used :
 In this project we have used Logistic Regression, Decision Tree, Random Forest, Gradient Boosting Machine 
 
